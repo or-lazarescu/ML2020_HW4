@@ -8,6 +8,6 @@
 3 Excel files:
   1. Classification results (5 algorithms 150 datasets).csv - training and testing results
   2. hyperparameters.xlsx - hyperparameters tuned using Randomizedsearch
-  3. Meta_Features_and_Results.csv
+  3. Meta_Features_and_Results.csv - input for meta-learner
 
 for runing the code supplied you will need the following packages: numpy, pandas, scikit learn.
